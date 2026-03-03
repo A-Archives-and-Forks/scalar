@@ -246,6 +246,10 @@ const html = computed(() => {
     display: table-cell;
     vertical-align: top;
     min-width: 1em;
+    /** Overrides explicit width attributes */
+    width: auto !important;
+    /** Overrides explicit height attributes */
+    height: auto !important;
     padding: 8.5px 16px;
     line-height: var(--markdown-line-height);
     position: relative;
