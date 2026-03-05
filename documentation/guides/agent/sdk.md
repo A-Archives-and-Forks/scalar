@@ -18,7 +18,7 @@ bun i @scalar/agent
 
 ## Personal Access Token
 
-You can create a personal access token in the [Scalar dashboard](https://dashboard.scalar.com/account) under **API Keys**.
+You can create a personal access token in the [Scalar Dashboard](https://dashboard.scalar.com/account) under **API Keys**.
 
 ## Setup
 
