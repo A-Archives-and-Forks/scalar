@@ -1,5 +1,27 @@
 # @scalar/api-reference
 
+## 1.48.1
+
+### Patch Changes
+
+- [#8288](https://github.com/scalar/scalar/pull/8288): fix: add consistent border to schema composition components
+- [#8348](https://github.com/scalar/scalar/pull/8348): fix(api-reference): bump dev tools z index for themes
+
+#### Updated Dependencies
+
+- **@scalar/workspace-store@0.37.1**
+  - [#8347](https://github.com/scalar/scalar/pull/8347): chore: export server workspace type
+
+- **@scalar/agent-chat@0.9.1**
+
+- **@scalar/api-client@2.33.1**
+
+- **@scalar/oas-utils@0.10.1**
+
+- **@scalar/sidebar@0.8.2**
+
+- **@scalar/components@0.20.2**
+
 ## 1.48.0
 
 ### Minor Changes

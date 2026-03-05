@@ -1,5 +1,16 @@
 # @scalar/sidebar
 
+## 0.8.2
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/workspace-store@0.37.1**
+  - [#8347](https://github.com/scalar/scalar/pull/8347): chore: export server workspace type
+
+- **@scalar/components@0.20.2**
+
 ## 0.8.1
 
 ### Patch Changes

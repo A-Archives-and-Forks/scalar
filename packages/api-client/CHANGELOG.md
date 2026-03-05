@@ -1,5 +1,22 @@
 # @scalar/api-client
 
+## 2.33.1
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/workspace-store@0.37.1**
+  - [#8347](https://github.com/scalar/scalar/pull/8347): chore: export server workspace type
+
+- **@scalar/oas-utils@0.10.1**
+
+- **@scalar/sidebar@0.8.2**
+
+- **@scalar/components@0.20.2**
+
+- **@scalar/use-codemirror@0.14.2**
+
 ## 2.33.0
 
 ### Minor Changes

@@ -1,5 +1,15 @@
 # @scalar/aspnetcore
 
+## 2.13.2
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/api-reference@1.48.1**
+  - [#8288](https://github.com/scalar/scalar/pull/8288): fix: add consistent border to schema composition components
+  - [#8348](https://github.com/scalar/scalar/pull/8348): fix(api-reference): bump dev tools z index for themes
+
 ## 2.13.1
 
 ### Patch Changes

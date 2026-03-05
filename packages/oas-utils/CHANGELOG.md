@@ -1,5 +1,14 @@
 # @scalar/oas-utils
 
+## 0.10.1
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/workspace-store@0.37.1**
+  - [#8347](https://github.com/scalar/scalar/pull/8347): chore: export server workspace type
+
 ## 0.10.0
 
 ### Minor Changes

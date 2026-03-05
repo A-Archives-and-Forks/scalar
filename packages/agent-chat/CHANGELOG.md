@@ -1,5 +1,18 @@
 # @scalar/agent-chat
 
+## 0.9.1
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/workspace-store@0.37.1**
+  - [#8347](https://github.com/scalar/scalar/pull/8347): chore: export server workspace type
+
+- **@scalar/api-client@2.33.1**
+
+- **@scalar/components@0.20.2**
+
 ## 0.9.0
 
 ### Minor Changes

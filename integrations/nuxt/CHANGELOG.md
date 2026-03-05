@@ -1,5 +1,17 @@
 # @scalar/nuxt
 
+## 0.6.2
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/api-reference@1.48.1**
+  - [#8288](https://github.com/scalar/scalar/pull/8288): fix: add consistent border to schema composition components
+  - [#8348](https://github.com/scalar/scalar/pull/8348): fix(api-reference): bump dev tools z index for themes
+
+- **@scalar/api-client@2.33.1**
+
 ## 0.6.1
 
 ### Patch Changes
