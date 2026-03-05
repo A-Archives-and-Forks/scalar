@@ -8,8 +8,7 @@
   "assetsDir": "documentation/assets",
   "insertPageTitles": false,
   "siteConfig": {
-    "subdomain": "scalar",
-    "customDomain": "scalar.com",
+    "subdomain": "scalar-com-staging",
     "head": {
       "scripts": [
         {
@@ -19,7 +18,7 @@
           "path": "documentation/assets/fathom.js"
         },
         {
-          "url": "https://cdn-cookieyes.com/client_data/3515bc1505967122c1cef7c0f2247082/script.js"
+          "url": "https://cdn-cookieyes.com/client_data/98ec8a125edc84311b94c47bb665dafd/script.js"
         }
       ],
       "styles": [
